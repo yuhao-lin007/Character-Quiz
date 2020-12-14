@@ -1,0 +1,48 @@
+.header {
+    text-align: center;
+    color: orange;
+    font-family: 'Ninja Naruto';  
+}
+
+img {
+width: 520px;
+margin:auto;
+}
+
+.counter{
+ font-family: 'Ninja Naruto', sans-serif;
+text-align: right;
+}
+
+input[type='number']{
+border:none;
+border-bottom:3px solid orange;  
+    width:180px;
+}
+
+input[type='string']{
+border:none;
+border-bottom:3px solid orange; 
+ width:180px;
+}
+.charater{
+margin:auto;
+height: 250px;
+width:auto;
+display:block;
+}
+.result{
+text-align: center;
+}
+.questions{
+text-align: center;
+}
+
+.button{
+text-align: center;
+}
+
+body {
+
+ background-color: #cccccc;
+}
